@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RealWorga
-- 👀 I’m interested in cars
+- 👋 Hi, I’m Hamed Haghjo
+- 👀 I’m interested in fast cars
 - 🌱 I’m currently learning how to tie my shoes faster than Usain Bolt
 - 💞️ I’m looking to collaborate with Elon Musk
 - 📫 How to reach me:
