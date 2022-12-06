@@ -22,9 +22,10 @@
   </samp>
 </div>
   
-  <div>
+<div>
   <samp>
       <br/>
+        <h3 align="center">I work mostly on private repositories. So the statistics may differ from the actual work I do.</h3>
         <p align="center">
         <a href="https://github.com/realworga/">
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RealWorga&theme=github_dark"
