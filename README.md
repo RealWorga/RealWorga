@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, I'm Hamed Haghjo. Welcome to my GitHub profile!</h1>
+<h1 align="center">Hi, I'm Hamed Haghjo.</h1>
 <h4 align="center">I am a freelance developer and a MSc Engineering student at Halmstad University.</h4>
 </div>
 
