@@ -5,6 +5,7 @@
 
 <div align="center">
   <img  src="https://github.com/RealWorga/RealWorga/blob/main/snake.svg" alt="snake" />
+  <img src="https://komarev.com/ghpvc/?username=RealWorga&style=for-the-badge">
 </div>
 
 -----
