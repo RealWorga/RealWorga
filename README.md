@@ -5,7 +5,6 @@
 
 <div align="center">
   <img  src="https://github.com/RealWorga/RealWorga/blob/main/snake.svg" alt="snake" />
-  <img src="https://komarev.com/ghpvc/?username=RealWorga&style=for-the-badge">
 </div>
 
 -----
@@ -31,12 +30,7 @@
         <a href="https://github.com/realworga/">
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RealWorga&theme=github_dark"
           alt="Summary" /></a>
-        </p>
-        <p align="center">
-        <a href="https://github.com/realworga/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealWorga&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="RealWorga :: Most Used Languages " /></a>
-        </p>
+    </p>
         <p align="center">
           <a href="https://github.com/realworga/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=RealWorga&show_icons=true&theme=gruvbox&hide_border=true" />
@@ -45,4 +39,7 @@
        </p>
      <br>
      </samp>
-  </div>    
+  </div>
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RealWorga&style=for-the-badge">
+</div>
