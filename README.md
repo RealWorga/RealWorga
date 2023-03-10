@@ -1,16 +1,16 @@
-<div align="center">
+
   <h1>Hey!</h1>
   <h4>I am Hamed Haghjo, an independent software development specialist and a postgraduate candidate pursuing a Master of Science degree in Engineering.</h4>
   <h2>About me</h2>
   <div style="text-align: left;">
     <ul style="list-style-position: outside;">
-      <li>While I concede the possibility of errors in my assessments, my discerning faculties reliably produce reliable conclusions.</li>
-      <li>My intellectual prowess lies in the meticulous dissection and analysis of intricate scenarios, an attribute emblematic of a consummate overthinker.</li>
-      <li>Adept at manipulating and obfuscating information, I have attained the highest level of proficiency in the esoteric discipline of gaslighting, evidenced by my prestigious status as a black belt.</li>
-      <li>A prodigious master of the fine art of task deferral, my aptitude in procrastination is unparalleled, firmly establishing me as an expert in this field.</li>
+      <li><strong>Reliably Discerning:</strong> While I concede the possibility of errors in my assessments, my discerning faculties reliably produce reliable conclusions.</li>
+      <li><strong>Intellectually Meticulous:</strong> My intellectual prowess lies in the meticulous dissection and analysis of intricate scenarios, an attribute emblematic of a consummate overthinker.</li>
+      <li><strong>Proficient Gaslighter:</strong> Adept at manipulating and obfuscating information, I have attained the highest level of proficiency in the esoteric discipline of gaslighting, evidenced by my prestigious status as a black belt.</li>
+      <li><strong>Master Procrastinator:</strong> A prodigious master of the fine art of task deferral, my aptitude in procrastination is unparalleled, firmly establishing me as an expert in this field.</li>
     </ul>
   </div>
-</div>
+
 
 
 <div align="center">
