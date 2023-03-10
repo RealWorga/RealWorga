@@ -1,15 +1,21 @@
+<h1>Hey!</h1>
+<h4>I am Hamed Haghjo, an independent software development specialist and a postgraduate candidate pursuing a Master of Science degree in Engineering.</h4>
 
-  <h1>Hey!</h1>
-  <h4>I am Hamed Haghjo, an independent software development specialist and a postgraduate candidate pursuing a Master of Science degree in Engineering.</h4>
-  <h2>About me</h2>
-  <div style="text-align: left;">
-    <ul style="list-style-position: outside;">
-      <li><strong>Reliably Discerning:</strong> While I concede the possibility of errors in my assessments, my discerning faculties reliably produce reliable conclusions.</li>
-      <li><strong>Intellectually Meticulous:</strong> My intellectual prowess lies in the meticulous dissection and analysis of intricate scenarios, an attribute emblematic of a consummate overthinker.</li>
-      <li><strong>Proficient Gaslighter:</strong> Adept at manipulating and obfuscating information, I have attained the highest level of proficiency in the esoteric discipline of gaslighting, evidenced by my prestigious status as a black belt.</li>
-      <li><strong>Master Procrastinator:</strong> A prodigious master of the fine art of task deferral, my aptitude in procrastination is unparalleled, firmly establishing me as an expert in this field.</li>
-    </ul>
-  </div>
+<h2>About me</h2>
+
+<div style="text-align: left;">
+  <ul style="list-style-position: outside;">
+    <li><strong>Reliably Discerning:</strong> Albeit acknowledging the inherent fallibility of any evaluative process, I assert the unwavering reliability of my discerning faculties in consistently generating astute judgments and dependable outcomes.</li>
+    <li><strong>Intellectually Meticulous:</strong> My cerebral capabilities are characterized by a fastidious and methodical approach to scrutinizing complex and intricate situations, which exemplifies the epitome of an excessively contemplative individual.</li>
+    <li><strong>Proficient Gaslighter:</strong> Through adroitly manipulating and obfuscating information, I have attained the zenith of excellence in the arcane art of gaslighting, as evidenced by my distinguished standing as a black belt practitioner.</li>
+    <li><strong>Master Procrastinator:</strong> My prodigious expertise in the fine art of task deferral is unparalleled, having honed my proficiency to consummate mastery, firmly establishing me as an eminent authority in this specialized domain.</li>
+    <li><strong>Calculated Risk-Taker:</strong> My exceptional acumen and unwavering self-confidence enable me to execute calculated risk-taking with remarkable precision and speed, deftly navigating intricate decision-making scenarios with a steady hand at the helm.</li>
+    <li><strong>Visionary Maverick:</strong> Fueled by an unquenchable passion for innovative thinking and a fearless spirit of experimentation, I boldly push the boundaries of possibility as a visionary maverick, pioneering novel pathways toward a brighter and more prosperous future.</li>
+    <li><strong>Strategic Alchemist:</strong> My impressive repertoire of business theory and intuitive understanding of human behavior enable me to masterfully transmute mundane business practices into glittering pillars of success and achievement as a strategic alchemist, leaving an indelible mark on the landscape of modern business.</li>
+  </ul>
+</div>
+
+
 
 
 
