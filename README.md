@@ -12,6 +12,7 @@
     <li><strong>Calculated Risk-Taker:</strong> My exceptional acumen and unwavering self-confidence enable me to execute calculated risk-taking with remarkable precision and speed, deftly navigating intricate decision-making scenarios with a steady hand at the helm.</li>
     <li><strong>Visionary Maverick:</strong> Fueled by an unquenchable passion for innovative thinking and a fearless spirit of experimentation, I boldly push the boundaries of possibility as a visionary maverick, pioneering novel pathways toward a brighter and more prosperous future.</li>
     <li><strong>Strategic Alchemist:</strong> My impressive repertoire of business theory and intuitive understanding of human behavior enable me to masterfully transmute mundane business practices into glittering pillars of success and achievement as a strategic alchemist, leaving an indelible mark on the landscape of modern business.</li>
+    <li><strong>Altruistic Luminary:</strong> As an ardent devotee of effective altruism, I employ my keen intellect and consummate skills to meticulously evaluate and direct my philanthropic endeavors, ensuring the most efficacious deployment of resources in the service of humanity, thereby exemplifying the quintessence of a true altruistic luminary.</li>
   </ul>
 </div>
 
