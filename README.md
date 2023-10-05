@@ -1,5 +1,5 @@
 <h1>Hey!</h1>
-<h4>I am Hamed Haghjo, an independent software development specialist and a postgraduate candidate pursuing a Master of Science degree in Engineering.</h4>
+I am Hamed Haghjo, an independent software development specialist and a postgraduate candidate pursuing a Master of Science degree in Engineering.
 
 <h2>About me</h2>
 
