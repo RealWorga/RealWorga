@@ -1,5 +1,5 @@
 <h1>Hey!</h1>
-I am independent software development specialist and a postgraduate candidate pursuing a Master of Science degree in Engineering.
+Independent software delevoper specialized in the field of AI with a Master of Science degree in Computer Science and Engineering.
 
 <h2>About me</h2>
 
