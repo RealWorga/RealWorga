@@ -51,7 +51,7 @@ Independent software delevoper specialized in the field of AI with a Master of S
     </p>
         <p align="center">
           <a href="https://github.com/realworga/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=RealWorga&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats-sf26.vercel.app/api?username=RealWorga&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=RealWorga&theme=gruvbox&hide_border=true" />
           </a>
        </p>
