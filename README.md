@@ -46,13 +46,13 @@ Independent software delevoper specialized in the field of AI with a Master of S
         <h3 align="center">Given that the majority of my work is conducted within private repositories, I must acknowledge that the statistics presented may not fully reflect the scope and nature of my actual contributions.</h3>
         <p align="center">
         <a href="https://github.com/realworga/">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RealWorga&theme=github_dark"
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RealWorga&theme=tokyonight"
           alt="Summary" /></a>
     </p>
         <p align="center">
           <a href="https://github.com/realworga/">
-          <img width="49.5%" src="https://github-readme-stats-sf26.vercel.app/api?username=RealWorga&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=RealWorga&theme=gruvbox&hide_border=true" />
+          <img width="50%" src="https://github-readme-stats-sf26.vercel.app/api?username=RealWorga&show_icons=true&theme=tokyonight&hide_border=true"/>
+          <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=RealWorga&theme=tokyonight&hide_border=true"/>
           </a>
        </p>
      <br>
