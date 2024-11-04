@@ -25,6 +25,7 @@ Independent software delevoper specialized in the field of AI with a Master of S
 </div>
 
 -----
+<!--
 <div>
   <samp>
     <p align="center">
@@ -38,7 +39,7 @@ Independent software delevoper specialized in the field of AI with a Master of S
     </p>
   </samp>
 </div>
-  
+-->
 <div>
   <samp>
       <br/>
